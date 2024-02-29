@@ -1,8 +1,12 @@
 /*
-Nome do programa: conversor de segundos
-Descrição: Programa em C que transforma segundos para horas e minutos
-Autor: Gabriel Magnago
-Data:21/02/2024
+Escreva um programa para:
+
+a. Receba do usuário um tempo em segundos,
+correspondente à duração de um evento qualquer
+(por exemplo, jogo de futebol);
+
+b. Calcule e mostre ao usuário o tempo equivalente
+em horas, minutos e segundos.
 */
 
 
