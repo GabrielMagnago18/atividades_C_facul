@@ -1,8 +1,7 @@
 /*
-Nome do programa: média de 3 numeros
-Descrição: Programa em C que recebe 3 números e faz sua média
-Autor: Gabriel Magnago
-Data:21/02/2024
+Escreva um programa para receber 3 valores inteiros
+do usuário e mostrar a sua média (que pode não ser
+inteira).
 */
 
 
