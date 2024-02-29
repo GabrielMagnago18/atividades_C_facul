@@ -1,3 +1,10 @@
+/*
+Desenvolva um algoritmo que calcule a nota final de um
+estudante. A nota é composta por: um trabalho de laboratório
+(peso 2), uma avaliação semestral (peso 3) e um exame final
+(peso 5).
+*/
+
 #include <stdio.h>
 
 int main()
